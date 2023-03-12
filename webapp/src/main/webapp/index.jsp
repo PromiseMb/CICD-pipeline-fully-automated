@@ -161,7 +161,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </div>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
-  <p>Find me on social media.</p>
+  <p>Find me on social media now.</p>
   <em class="fa fa-facebook-official w3-hover-opacity"></em>
   <em class="fa fa-instagram w3-hover-opacity"></em>
   <em class="fa fa-snapchat w3-hover-opacity"></em>
